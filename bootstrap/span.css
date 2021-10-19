@@ -1,0 +1,16 @@
+h2{
+    color: firebrick;
+} 
+span{
+    color: gold;
+}
+
+.section a:nth-child(1){
+    color: rgb(223, 18, 114);
+}
+.section a:nth-child(2){
+    color: rgb(68, 184, 23);
+}
+.section a:nth-child(3){
+    color: rgb(221, 131, 47);
+}

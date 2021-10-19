@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+.nav-item a:hover {
+    background-color: rgba(243, 11, 11, 0.747);color: rgb(231, 212, 212);
+    text-align: center;
+}
+.nav-background{
+    width:100%;
+    height:100%;
+
+    position: absolute;
+    
+}
+
+h6{
+    color: rgb(253, 246, 246);
+    font-size: x-small;
+    font-family: 'Waiting for the Sunrise', cursive;
+}
+.fas{
+    color: blanchedalmond;
+}
+.navbar{
+    font-family: 'Waiting for the Sunrise', cursive;
+
+}
+ .containe img{
+    padding-top: 80px;
+    width: 365px;
+    height: 490px;
+margin-right: 60px; }
+ header.hero .container{
+    position: relative;
+}
+header.hero .welcome{
+    margin: bottom 10px;
+    font-family: 'Ephesis', cursive;
+    font-size: 100px;
+    font-style: inherit;
+    font-weight: bolder;
+    color: rgb(255, 145, 0);
+    margin-left: 50px;
+}
+header.hero h1{
+    color: rgb(5, 145, 91);
+    font-size: xx-large;
+    margin-bottom:0.75rem;
+    font-family:  'Festive', cursive;;
+}
+header.hero h1 span{
+    color: rgb(165, 11, 11);
+}
+header.hero p{
+    width: 95%;
+    line-height: 1.5;
+    margin-bottom: -30px;
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 25px;
+    color: #161616;
+}
+.btn-primary {
+    background: slateblue;
+    color: snow;
+    font-family: 'Waiting for the Sunrise', cursive;
+
+}
+.btn-primary:hover{
+    background: black;
+    color: blanchedalmond;
+    border:1px solid red
+}
+.btn-secondary{
+    background:  rgb(255, 145, 0);
+    color:black;
+    font-family: 'Waiting for the Sunrise', cursive;
+
+
+}
+.btn-secondary:hover{
+    background: tomato;
+    color: black;
+    border:2px solid rgb(114, 114, 9)
+}
+.navbar{
+    background-color: rgb(255, 145, 0);
+}
+.carousel-item img{
+    height: 600px;
+    width: 400px;
+    margin-top: 40px;
+    margin-right: auto;
+
+}

@@ -1,0 +1,9 @@
+div{
+    border: solid 1px red;
+    width: 30%;
+    height: 500px;
+    float: left;
+    color: royalblue;
+    text-align: center;
+    background-color: aquamarine;
+}

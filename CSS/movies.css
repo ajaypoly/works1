@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(20, 19, 19);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
+h3{
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+p{
+    color: wheat;
+    font-family: fantasy;
+    padding: 5px;
+    text-align: center;
+}
+strong{color: turquoise;}
+.class{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.clas{
+    border: solid red 2px;
+    width: 1000px;
+    height: 810px;
+    padding-left: 50px;
+}
+div img{
+    width: 90%;
+    height: 33%;
+    
+}
+.mov{
+    background-color: chocolate;
+    border: solid rgb(46, 197, 53) 2px;
+    padding: 35px;
+    width: 50%;
+    height: 1px;
+    padding-left: 60px;
+}

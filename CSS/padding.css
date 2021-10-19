@@ -1,0 +1,12 @@
+div{
+    background-color: skyblue;
+    height: 300px;
+    width: 500px;
+    color: tomato;
+    background-image: url( ./images/download.jpg);
+    
+
+}
+p{
+    padding-right: 100px;
+}

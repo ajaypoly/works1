@@ -1,0 +1,75 @@
+h1{
+    color: wheat;
+    font-family: unset;
+    margin-left: 500px;
+}
+body{
+    background-color: black;
+}
+div{
+    width: 200px;
+    height: 200px;
+    border: solid rgb(230, 29, 29) 2px;
+}
+#a1{
+background-color: gray;
+margin-left: 300px;
+}
+#a2{
+    background-color: rgb(46, 179, 101);
+    margin-left: 532px;
+    margin-top: -203px;
+}
+#a3{
+    background-color: rgb(42, 211, 27);
+    margin-left: 766px;
+    margin-top: -203px;
+}
+#a4{
+background-color: rgb(113, 238, 11);
+margin-top:-203px ;
+margin-left: 1005px;
+}
+#a5{
+background-color: rgb(49, 63, 49);
+margin-top: -203px;
+margin-left: 1233px;
+}
+#a6{
+background-color: orangered;
+margin-top: 50px;
+margin-left: 50px;
+}
+#a7{
+    background-color: rgb(209, 17, 17);
+    margin-top: -204px;
+    margin-left: 290px;
+}
+#a8{
+    background-color: sandybrown;
+    margin-top: -202px;
+    margin-left: 532px;
+}
+#a9{
+    background-color: rgb(212, 100, 212);
+    margin-top: -203px;
+    margin-left: 773px;
+
+}
+
+#a10{
+    background-color: rgb(138, 38, 138);
+    margin-top: -202px;
+    margin-left: 1017px;
+}
+#a11{
+    background-color: rgb(110, 27, 78)
+    ;
+    margin-top: -204px;
+    margin-left: 1250px;
+}
+#a12{
+    background-color: rgb(107, 70, 107);
+    margin-top: -205px;
+    margin-left: 1488px;
+}

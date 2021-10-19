@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300;400&display=swap');
+h1{
+    color:#18d64a;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+body{
+    background-color: rgb(250, 250, 140);
+}
+#second{
+    color: blueviolet;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+.c2{
+    color: crimson;
+    font-family: cursive;
+}

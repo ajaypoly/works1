@@ -1,0 +1,9 @@
+button{
+    background-color: rgb(80, 11, 145);
+    color: cornsilk;
+    border-radius: 35px;
+}
+.btn:hover{
+    background-color: rgb(167, 144, 54);
+    color:  rgb(70, 4, 70);
+}
